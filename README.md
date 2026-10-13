@@ -20,7 +20,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
-
+<img src="https://raw.githubusercontent.com/username/username/output/github-contribution-grid-snake.svg" />
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=username&theme=tokyonight&hide_border=true" />
 </p>
